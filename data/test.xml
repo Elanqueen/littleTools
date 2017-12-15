@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <first>
+        <title name="first_child">first_child</title>
+        <auther key="xiaoming"></auther>
+    </first>
+    <second>
+        <title name="sencond_child">second_child</title>
+        <auther value="benjieming"></auther>
+    </second>
+</root>

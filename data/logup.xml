@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding = "utf-8"?>
+<info>
+<login name="login">
+    <title>login_data</title>
+    <url text="http://localhost:8080/aspWeb/index"></url>
+    <username text="ms"></username>
+    <password text="888888"></password>
+</login>
+<zhuce>
+    <title>zhuce_data</title>
+    <ms_name text="1211-支付宝002"></ms_name>
+    <ms_type value="交通出行"></ms_type>
+    <ms_version text="v3.1"></ms_version>
+    <dev text="测试"></dev>
+    <ms_test_url text="http://127.0.0.1:8011/heart/success"></ms_test_url>
+    <ms_desc_url text="http://www.baidu.com"></ms_desc_url>
+</zhuce>
+</info>
